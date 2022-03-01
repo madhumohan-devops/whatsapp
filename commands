@@ -21,3 +21,4 @@ git push wp master-f .....then change in remote repository
 git clean -n
 git clean -f
 
+modification code using develkopment branch
