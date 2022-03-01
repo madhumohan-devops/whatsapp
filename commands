@@ -33,3 +33,9 @@ git branch checkout branchname----to move another branch
 i am master branch
  i am development branch 
 
+i am stage branch
+git merge
+girt diff branchname
+
+ git checkout -b stage
+ git fush fb --all
