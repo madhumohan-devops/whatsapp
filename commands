@@ -14,3 +14,4 @@ git log -2
 git show id
 git show --pretty="" --name-only id
 
+these are the important commands in github management 
