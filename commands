@@ -29,5 +29,5 @@ git branch -d branchname---------for delete branch
 git branch -m mast -----rename
 git branch -m oldname newname------not in present branch
 git branch checkout branchname----to move another branch
-
+i am master branch
 
