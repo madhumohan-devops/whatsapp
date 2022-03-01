@@ -22,3 +22,12 @@ git clean -n
 git clean -f
 
 modification code using develkopment branch
+
+git branch
+git branch branchname -----for creation
+git branch -d branchname---------for delete branch
+git branch -m mast -----rename
+git branch -m oldname newname------not in present branch
+git branch checkout branchname----to move another branch
+
+
